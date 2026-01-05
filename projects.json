@@ -1,0 +1,38 @@
+{
+    "projects": [
+      {
+        "title": "Toward Generalizable Robotics Pushing",
+        "authors": [
+          "Steve Xing*"
+        ],
+        "venue": "Preprint (2025)",
+        "thumbnail": "images/thumbs/pushing.png",
+        "selected": 1,
+        "award": "",
+        "links": {
+          "pdf": "papers/CS498___Final_Report.pdf",
+          "code": "https://github.com/Zelo-S/cs498_robotarm",
+          "project": "",
+          "video": "https://drive.google.com/file/d/1y6DNNUCc8teXdDtfQWU3JUtYceL9bIhD/view?usp=sharing",
+          "cad_files": "#"
+        }
+      },
+      {
+        "title": "Custom Cycloidal Actuator Robot Leg",
+        "authors": [
+          "Steve Xing"
+        ],
+        "venue": "",
+        "thumbnail": "images/thumbs/cycloidal_leg.png",
+        "selected": 1,
+        "award": "",
+        "links": {
+          "pdf": "",
+          "code": "",
+          "project": "",
+          "video": "https://drive.google.com/file/d/11KWNlmNO7AJYADzYpDnWpNb7FXMc0SBt/view?usp=sharing",
+          "cad_files": "#"
+        }
+      }
+    ]
+  }
