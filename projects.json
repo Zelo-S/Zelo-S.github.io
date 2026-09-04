@@ -3,7 +3,7 @@
       {
         "title": "Toward Generalizable Robotics Pushing",
         "authors": [
-          "Steve Xing*"
+          "Steve Xing"
         ],
         "venue": "Preprint (2025)",
         "thumbnail": "images/thumbs/pushing.png",
@@ -15,6 +15,23 @@
           "project": "",
           "video": "https://drive.google.com/file/d/1y6DNNUCc8teXdDtfQWU3JUtYceL9bIhD/view?usp=sharing",
           "cad_files": "#"
+        }
+      },
+      {
+        "title": "Development of a Quadrupedal Robot",
+        "authors": [
+          "Steve Xing",
+          "Haruto Iguchi"
+        ],
+        "venue": "",
+        "thumbnail": "images/thumbs/quadruped.png",
+        "selected": 1,
+        "award": "",
+        "links": {
+          "pdf": "papers/ECE398_Final_Report.pdf",
+          "code": "https://github.com/Zelo-S/odrv-test",
+          "project": "",
+          "video": "https://drive.google.com/file/d/1a2KGu-0E2qX8TjalKHwPpbgGySkpuX2i/view?usp=sharing"
         }
       },
       {
